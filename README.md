@@ -1,3 +1,5 @@
+# Data Analysis of Summer Olympics (1896-2012)
+
 The data analysis of Summer Olympics from 1896 to 2012 was done using Python in this project.
 
 Numpy, Pandas, Matplotlib and Seaborn were the libraries used while doing the project.
