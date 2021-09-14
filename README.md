@@ -12,5 +12,5 @@ The questions that were analysed are as follows:
 4) Which player has won most number of medals? (Top 5)
 5) Which player has won most number of gold medals? (Top 5)
 6) In which year India won its first Olympic Gold medal?
-7) Which event is most popular is terms of players? (Top 5)
+7) Which event is most popular in terms of players? (Top 5)
 8) Which sport is having most female gold medals? (Top 5)
